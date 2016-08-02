@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps-Sample", "DevOps-Sample\DevOps-Sample.csproj", "{DEC63606-44B9-4D7B-A64F-BFE4F9898D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDownloaderTests", "WebDownloaderTests\WebDownloaderTests.csproj", "{A74B1155-DD25-4E00-8137-FD21A08A0727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC63606-44B9-4D7B-A64F-BFE4F9898D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC63606-44B9-4D7B-A64F-BFE4F9898D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC63606-44B9-4D7B-A64F-BFE4F9898D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC63606-44B9-4D7B-A64F-BFE4F9898D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74B1155-DD25-4E00-8137-FD21A08A0727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74B1155-DD25-4E00-8137-FD21A08A0727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74B1155-DD25-4E00-8137-FD21A08A0727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74B1155-DD25-4E00-8137-FD21A08A0727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
